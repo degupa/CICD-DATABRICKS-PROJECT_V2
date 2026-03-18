@@ -1,7 +1,7 @@
 # CICD-DATABRICKS-PROJECT_V2
 **Integración CI/CD con GitHub para Databricks**
 
-Este proyecto lo hice para una demostracion de entrevista donde se implementa una pipeline de CI/CD que permite automatizar el despliegue de notebooks, jobs y configuraciones en Databricks directamente desde GitHub.
+Este proyecto lo hice para una demostracion donde se implementa una pipeline de CI/CD que permite automatizar el despliegue de notebooks, jobs y configuraciones en Databricks directamente desde GitHub.
 
 Características principales
 Sincronización automática entre el repositorio GitHub y el workspace de Databricks.
